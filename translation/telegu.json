@@ -1,0 +1,48 @@
+{
+    "app.title": "Sarascare",
+    "app.intro": "To get started edit <code>src/App.js</code> and save to reload.",
+    "icon.dashboard": "Dashboard",
+    "icon.home": "Home",
+    "login": "లాగిన్",
+	"offense": "నేరం",
+	"offense_type": "నేరం రకం",
+    "signup": "చేరడం",
+	"language": "భాష",
+	"victim": "బాధితుడు",
+	"witness":"సాక్షి",
+	
+	"name":"పేరు",
+	"phone":"ఫోన్",
+	"email":"ఇమెయిల్",
+	"prefer":"నేను అనామకంగా ఉండటానికి ఇష్టపడతాను",
+	"next": "తరువాత",
+	"date": "తేదీ",
+	"pick": "ఎంచుకోండి",
+	"city": "పట్టణం",
+	"state": "రాష్ట్రం",
+	"select_date": "తేదీని ఎంచుకోండి",
+	"gallery":"గ్యాలరీ",
+	"camera": "కెమెరా",
+	"evidence": "సాక్ష్యము",
+
+	"victim_name": "బాధితుడి పేరు",
+	"offender_name":"అపరాధి పేరు",
+	"location":"స్థానం",
+	"description": "వివరణ",
+    "submit":"లొంగు",
+	"submitting":"లొంగు...",
+	
+    "register.firstname": "First Name",
+    "register.lastname": "Last Name",
+    "register.email": "Email",
+    "register.password": "Password",
+    "register.confirmPassword": "Confirm Password",
+	"another_crime" : "నేర",
+	"required_field" : "కావలసిన సమాచారం",
+
+	"case_id": "కేసు ఐడి",
+	"reporter_info": "రిపోర్టర్ సమాచారం",
+	"about_offense": "ఆఫీస్ గురించి",
+	"for_people_text": "అనామకంగా నివేదించే వ్యక్తుల కోసం, మీరు కేసును తరువాత ట్రాక్ చేయాలనుకుంటే దయచేసి కేస్ ఐడిని వ్రాసుకోండి."
+
+}

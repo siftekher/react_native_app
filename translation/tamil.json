@@ -1,0 +1,48 @@
+{
+    "app.title": "Sarascare",
+    "app.intro": "To get started edit <code>src/App.js</code> and save to reload.",
+    "icon.dashboard": "Dashboard",
+    "icon.home": "Home",
+    "login": "உள்நுழைய",
+	"offense": "குற்றம்",
+	"offense_type": "குற்ற வகை",
+    "signup": "இணைந்ததற்கு",
+	"language": "மொழி",
+	"victim": "பாதிக்கப்பட்ட",
+	"witness":"சாட்சி",
+	
+	"name":"பெயர்",
+	"phone":"தொலைபேசி",
+	"email":"மின்னஞ்சல்",
+	"prefer":"நான் பெயரில்லாத இருக்க விரும்புகிறேன்",
+	"next": "அடுத்தது",
+	"date": "தேதி",
+	"pick": "அழைத்து",
+    "city": "நகரம்",
+    "state": "மாநிலம்",
+    "select_date": "தேதியைத் தேர்ந்தெடுக்கவும்",
+	"gallery":"கேலரி",
+	"camera": "பகைப்படக்கருவி",
+	"evidence": "ஆதாரம்",
+
+	"victim_name": "பாதிக்கப்பட்ட பெயர்",
+	"offender_name":"குற்றவாளி பெயர்",
+	"location":"இடம்",
+	"description": "விளக்கம்",
+    "submit":"சமர்ப்பிக்க",
+	"submitting":"சமர்ப்பிக்க...",
+	
+    "register.firstname": "First Name",
+    "register.lastname": "Last Name",
+    "register.email": "Email",
+    "register.password": "Password",
+    "register.confirmPassword": "Confirm Password",
+	"another_crime" : "குற்றம்",
+	"required_field" : "தேவையான புலம்",
+
+	"case_id": "வழக்கு ஐடி",
+	"reporter_info": "ரிப்போர்ட்டரின் தகவல்",
+	"about_offense": "அலுவலகம் பற்றி",
+	"for_people_text": "அநாமதேயமாக புகாரளிக்கும் நபர்களுக்கு, வழக்கை பின்னர் கண்காணிக்க விரும்பினால் வழக்கு ஐடியை எழுதுங்கள்."
+
+}
